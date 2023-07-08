@@ -6,7 +6,7 @@ Inspired by [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edg
 
 1. Fork this repo to create Cloudflare Pages.
 
-3. Add an environment variable. The variable name is `UUID` , for the value of the variable, please generate VLESS user ID.
+3. Add an environment variable. The variable name is `UUID` , generate variable value on your own.
 
 ## Deploy in Cloudflare Workers
 
