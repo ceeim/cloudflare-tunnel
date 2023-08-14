@@ -1,6 +1,6 @@
 # Cloudflare Tunnel
 
-Inspired by [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)]
+Inspired by [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
 
 ## Deploy in Cloudflare Pages
 
