@@ -1,0 +1,13 @@
+name = "cf-worker-ws-dev" # todo
+#name = "cf-worker-connect-test" # todo
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+
+[vars]
+# UUID = "8227af6a-0100-4e14-9527-fd7ff440f0e9"
+# PROXYIP = "1.2.3.4"
+# DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
+# NODE_ID = "1"
+# API_TOKEN = "abcdefghijklmnopqrstuvwxyz123456"
+# API_HOST = "api.v2board.com"
+# UUID = "8227af6a-0100-4e14-9527-fd7ff440f0e9,81f8e9b4-5fe0-468b-ac1a-4b5747f4c03a,f105fde7-88f4-43b4-ab3c-5d987f9a9938"
